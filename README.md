@@ -325,7 +325,7 @@ Open source grows because of people like you.
 
 ---
 
-Thanks a lot for spending your time helping Resonate grow. Keep rocking 🥂
+Thanks a lot for spending your time helping OrgExplorer grow. Keep rocking 🥂
 
 <a href="https://github.com/AOSSIE-Org/OrgExplorer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AOSSIE-Org/OrgExplorer" alt="Contributors"/>
